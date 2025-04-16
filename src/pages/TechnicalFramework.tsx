@@ -51,7 +51,7 @@ const TechnicalFramework = () => {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle>Social Media Monitoring Framework</CardTitle>
-                    <Shield className="h-8 w-8 text-kenya-green" />
+                    <Shield className="h-8 w-8 text-blue-600" />
                   </div>
                   <CardDescription>
                     Educational overview of systems for monitoring public social media for security threats
@@ -103,7 +103,7 @@ const TechnicalFramework = () => {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle>Information Analysis Systems</CardTitle>
-                    <Database className="h-8 w-8 text-kenya-red" />
+                    <Database className="h-8 w-8 text-red-600" />
                   </div>
                   <CardDescription>
                     Technical approaches for analyzing social media data for security implications
@@ -165,7 +165,7 @@ const TechnicalFramework = () => {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle>Response Systems</CardTitle>
-                    <Clock className="h-8 w-8 text-kenya-black" />
+                    <Clock className="h-8 w-8 text-gray-800" />
                   </div>
                   <CardDescription>
                     Technical frameworks for responding to identified security threats
@@ -237,7 +237,7 @@ const TechnicalFramework = () => {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle>Prevention Technologies</CardTitle>
-                    <Server className="h-8 w-8 text-kenya-green" />
+                    <Server className="h-8 w-8 text-blue-600" />
                   </div>
                   <CardDescription>
                     Preventative technical approaches to reduce social media risks
@@ -306,7 +306,7 @@ const TechnicalFramework = () => {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle>Training Software Framework</CardTitle>
-                    <Users className="h-8 w-8 text-kenya-red" />
+                    <Users className="h-8 w-8 text-red-600" />
                   </div>
                   <CardDescription>
                     Digital training systems for personnel education

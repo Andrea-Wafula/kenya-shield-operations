@@ -15,8 +15,8 @@ export function PoliciesSection() {
         </div>
         
         <div className="max-w-3xl mx-auto">
-          <Alert className="bg-kenya-red/10 border-kenya-red mb-8">
-            <AlertTriangle className="h-4 w-4 text-kenya-red" />
+          <Alert className="bg-red-50 border-red-500 mb-8">
+            <AlertTriangle className="h-4 w-4 text-red-500" />
             <AlertTitle>Educational Content Only</AlertTitle>
             <AlertDescription>
               These guidelines are for educational purposes and should be adapted to specific organizational requirements and legal frameworks.
