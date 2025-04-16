@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
 
-## Project info
+# Shield Operations: Digital Security Education Platform
 
-**URL**: https://lovable.dev/projects/b29d23df-aa77-4cbf-bf04-143813340469
+## Overview
 
-## How can I edit this code?
+Shield Operations is an educational resource dedicated to understanding the complex interactions between social media, digital communication, and military operations. This project explores the critical challenges posed by digital information in modern security contexts.
 
-There are several ways of editing your application.
+## Key Features
 
-**Use Lovable**
+- 🔒 **Operational Security Frameworks**
+- 🌐 **Digital Intelligence Analysis**
+- 👥 **Personnel Training Resources**
+- 📜 **Policy Development Guidelines**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b29d23df-aa77-4cbf-bf04-143813340469) and start prompting.
+## Project Goals
 
-Changes made via Lovable will be committed automatically to this repo.
+Our mission is to provide comprehensive, balanced educational materials that:
+- Analyze social media's impact on military operations
+- Develop strategies for managing digital information risks
+- Promote responsible communication practices
+- Support informed policy-making
 
-**Use your preferred IDE**
+## Technologies
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Vite
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Getting Started
 
-Follow these steps:
+### Prerequisites
+- Node.js (v18+)
+- npm or bun
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# Clone the repository
+git clone https://github.com/your-username/shield-operations.git
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Navigate to project directory
+cd shield-operations
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Contributions are welcome! Please read our contributing guidelines before getting started.
 
-**Use GitHub Codespaces**
+## License
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b29d23df-aa77-4cbf-bf04-143813340469) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is licensed under the MIT License.
