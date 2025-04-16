@@ -7,11 +7,11 @@ const About = () => {
       <section className="py-16 bg-white">
         <div className="container">
           <div className="max-w-3xl mx-auto">
-            <h1 className="text-4xl font-bold mb-8 text-center">About Kenya Shield Operations</h1>
+            <h1 className="text-4xl font-bold mb-8 text-center">About Shield Operations</h1>
             
             <div className="prose prose-lg max-w-none">
               <p className="lead">
-                Kenya Shield Operations is an educational initiative focused on addressing the critical challenges that social media and political interference pose to military operations in Kenya.
+                Shield Operations is an educational initiative focused on addressing the critical challenges that social media and political interference pose to military operations globally.
               </p>
               
               <h2>Our Mission</h2>
@@ -21,7 +21,7 @@ const About = () => {
               
               <h2>The Challenge</h2>
               <p>
-                As Kenya's President has noted, unregulated social media and political interference in military operations pose significant threats to national security and stability. The rapid spread of information—both accurate and inaccurate—can compromise operations, endanger personnel, and undermine strategic objectives.
+                As modern military and security organizations recognize, unregulated social media and political interference in military operations pose significant threats to national security and stability. The rapid spread of information—both accurate and inaccurate—can compromise operations, endanger personnel, and undermine strategic objectives.
               </p>
               
               <h2>Our Approach</h2>
