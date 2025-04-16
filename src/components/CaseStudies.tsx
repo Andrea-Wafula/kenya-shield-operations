@@ -14,7 +14,7 @@ export function CaseStudies() {
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <Card>
-            <CardHeader className="bg-kenya-green/10">
+            <CardHeader className="bg-blue-50">
               <CardTitle>Operation Exposure</CardTitle>
               <CardDescription>Middle East, 2019</CardDescription>
             </CardHeader>
@@ -29,7 +29,7 @@ export function CaseStudies() {
           </Card>
           
           <Card>
-            <CardHeader className="bg-kenya-red/10">
+            <CardHeader className="bg-red-50">
               <CardTitle>Disinformation Campaign</CardTitle>
               <CardDescription>Eastern Europe, 2022</CardDescription>
             </CardHeader>
@@ -44,7 +44,7 @@ export function CaseStudies() {
           </Card>
           
           <Card>
-            <CardHeader className="bg-kenya-black/10">
+            <CardHeader className="bg-gray-50">
               <CardTitle>Political Interference</CardTitle>
               <CardDescription>West Africa, 2021</CardDescription>
             </CardHeader>
